@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "803043203869",
+    "project_id": "b38firebase",
+    "storage_bucket": "b38firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803043203869:android:e2ae4bfa80faa884d45ff4",
+        "android_client_info": {
+          "package_name": "com.learning.b38firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803043203869-c64qt72vi21vdiofr7n13cgah3sbk3mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYfnyquywVM7tesXG15jeaQTMCWWcbLOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803043203869-c64qt72vi21vdiofr7n13cgah3sbk3mi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
